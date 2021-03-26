@@ -3,9 +3,9 @@ In this project, the goal is to predict the average amount of debt using multiva
 
 The project is divided into sections based on a machine learning workflow from Data Exploration to Model Interpretation:
 
-# I. Data Exploration
-## A. General overview of the dataset
-## B. In-depth analysis of numerical features (t-tests, pairplots, Pearson's correlation..)
+## I. Data Exploration
+*A. General overview of the dataset*
+*B. In-depth analysis of numerical features (t-tests, pairplots, Pearson's correlation..)*
 ## C. In-depth analysis of categorical features (ANOVA, univariate regressions, Cramer'V association..)
 ## D. Analysing relationships between numerical and categorical features
 # II. Data Preparation
